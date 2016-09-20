@@ -1,0 +1,448 @@
+{
+ 
+	"name": "Indonesia", 
+	"children": [
+		{
+			"name": "Sumatra", 
+			"children" : [
+				{
+					"name": "Aceh",
+					"children": [
+						
+						{"name": "usia 15", "size": 2.37},
+						{"name": "usia 15-44", "size": 0.27},
+						{"name": "usia 45+", "size": 7.73}
+					
+					]
+				},
+				
+				{
+					"name": "Sumatra Utara",
+					"children": [
+						
+						{"name": "usia 15+", "size": 1.32},
+						{"name": "usia 15-44", "size": 0.51},
+						{"name": "usia 45+", "size": 3.08}
+					
+					]
+				},
+				
+				{
+					"name": "Sumatra Barat",
+					"children": [
+						
+						{"name": "usia 15+", "size": 1.44},
+						{"name": "usia 15-44", "size": 0.32},
+						{"name": "usia 45+", "size": 3.52}
+					
+					]
+				},
+				
+				{
+					"name": "Kepulauan Riau",
+					"children": [
+						
+						{"name": "usia 15+", "size": 1.13},
+						{"name": "usia 15-44", "size": 0.33},
+						{"name": "usia 45+", "size": 3.42}
+					
+					]
+				},
+				
+				{
+					"name": "Jambi",
+					"children": [
+						
+						{"name": "usia 15+", "size": 2.16},
+						{"name": "usia 15-44", "size": 0.49},
+						{"name": "usia 45+", "size": 6.06}
+					
+					]
+				},
+				
+				{
+					"name": "Jambi",
+					"children": [
+						
+						{"name": "usia 15+", "size": 2.16},
+						{"name": "usia 15-44", "size": 0.49},
+						{"name": "usia 45+", "size": 6.06}
+					
+					]
+				},
+				
+				{
+					"name": "Sumatra Selatan",
+					"children": [
+						
+						{"name": "usia 15+", "size": 1.78},
+						{"name": "usia 15-44", "size": 0.48},
+						{"name": "usia 45+", "size": 4.73}
+					
+					]
+				},
+				
+				{
+					"name": "Bengkulu",
+					"children": [
+						
+						{"name": "usia 15+", "size": 2.37},
+						{"name": "usia 15-44", "size": 0.48},
+						{"name": "usia 45+", "size": 6.77}
+					
+					]
+				},
+				
+				{
+					"name": "Lampung",
+					"children": [
+						
+						{"name": "usia 15+", "size": 3.33},
+						{"name": "usia 15-44", "size": 0.34},
+						{"name": "usia 45+", "size": 9.52}
+					
+					]
+				},
+				
+				{
+					"name": "Kepulauan Bangka Belitung",
+					"children": [
+						
+						{"name": "usia 15+", "size": 2.37},
+						{"name": "usia 15-44", "size": 0.87},
+						{"name": "usia 45+", "size": 5.86}
+					
+					]
+				},
+				
+				{
+					"name": "Kepulauan Riau",
+					"children": [
+						
+						{"name": "usia 15+", "size": 1.21},
+						{"name": "usia 15-44", "size": 0.29},
+						{"name": "usia 45+", "size": 4.42}
+					
+					]
+				}
+				
+			]
+		},
+		{
+			"name": "Jawa",
+			"children":[
+				
+				{
+					"name": "DKI Jakarta",
+					"children": [
+						
+						{"name": "usia 15+", "size": 0.41},
+						{"name": "usia 15-44", "size": 0.06},
+						{"name": "usia 45+", "size": 1.26}
+					
+					]
+				},
+				
+				{
+					"name": "Jawa Barat",
+					"children": [
+						
+						{"name": "usia 15+", "size": 1.99},
+						{"name": "usia 15-44", "size": 0.29},
+						{"name": "usia 45+", "size": 5.45}
+					
+					]
+				},
+				
+				{
+					"name": "Jawa Tengah",
+					"children": [
+						
+						{"name": "usia 15+", "size": 6.88},
+						{"name": "usia 15-44", "size": 0.50},
+						{"name": "usia 45+", "size": 16.10}
+					
+					]
+				},
+				
+				{
+					"name": "DI Yogyakarta",
+					"children": [
+						
+						{"name": "usia 15+", "size": 5.50},
+						{"name": "usia 15-44", "size": 0.19},
+						{"name": "usia 45+", "size": 12.80}
+					
+					]
+				},
+				
+				{
+					"name": "Jawa Timur",
+					"children": [
+						
+						{"name": "usia 15+", "size": 8.53},
+						{"name": "usia 15-44", "size": 1.24},
+						{"name": "usia 45+", "size": 19.24}
+					
+					]
+				},
+				
+				{
+					"name": "Jawa Tengah",
+					"children": [
+						
+						{"name": "usia 15+", "size": 6.88},
+						{"name": "usia 15-44", "size": 0.50},
+						{"name": "usia 45+", "size": 16.10}
+					
+					]
+				},
+				
+				{
+					"name": "Banten",
+					"children": [
+						
+						{"name": "usia 15+", "size": 2.63},
+						{"name": "usia 15-44", "size": 0.33},
+						{"name": "usia 45+", "size": 8.69}
+					
+					]
+				}
+				
+			]
+
+		},
+		
+		{
+			"name" : "Kepulauan Nusa Tenggara",
+			"children": [
+				
+				{
+					"name": "Bali",
+					"children": [
+						
+						{"name": "usia 15+", "size": 7.23},
+						{"name": "usia 15-44", "size": 0.61},
+						{"name": "usia 45+", "size": 18.31}
+						
+					]
+				},
+				
+				{
+					"name": "Nusa Tenggara Barat",
+					"children": [
+						
+						{"name": "usia 15+", "size": 13.03},
+						{"name": "usia 15-44", "size": 3.31},
+						{"name": "usia 45+", "size": 33.78}
+						
+					]
+				},
+				
+				{
+					"name": "Nusa Tenggara Timur",
+					"children": [
+						
+						{"name": "usia 15+", "size": 8.55},
+						{"name": "usia 15-44", "size": 3.01},
+						{"name": "usia 45+", "size": 19.47}
+						
+					]
+				}
+			]
+		
+		},
+		
+		{
+			"name": "Kalimantan",
+			"children": [
+				
+				{
+					"name": "Kalimantan Barat",
+					"children": [
+						
+						{"name": "usia 15+", "size": 7.68},
+						{"name": "usia 15-44", "size": 2},
+						{"name": "usia 45+", "size": 20.78}
+						
+					]
+				},
+				
+				{
+					"name": "Kalimantan Tengah",
+					"children": [
+						
+						{"name": "usia 15+", "size": 1.12},
+						{"name": "usia 15-44", "size": 0.30},
+						{"name": "usia 45+", "size": 3.32}
+						
+					]
+				},
+				
+				{
+					"name": "Kalimantan Selatan",
+					"children": [
+						
+						{"name": "usia 15+", "size": 1.79},
+						{"name": "usia 15-44", "size": 0.19},
+						{"name": "usia 45+", "size": 5.40}
+						
+					]
+				},
+				
+				{
+					"name": "Kalimantan Timur",
+					"children": [
+						
+						{"name": "usia 15+", "size": 1.31},
+						{"name": "usia 15-44", "size": 0.13},
+						{"name": "usia 45+", "size": 4.34}
+						
+					]
+				},
+				
+				{
+					"name": "Kalimantan Utara",
+					"children": [
+						
+						{"name": "usia 15+", "size": 5.01},
+						{"name": "usia 15-44", "size": 1.36},
+						{"name": "usia 45+", "size": 14.89}
+						
+					]
+				}
+				
+			]
+		},
+		
+		{
+			"name": "Sulawesi",
+			"children": [
+				
+				{
+					"name": "Sulawesi Utara",
+					"children": [
+						
+						{"name": "usia 15+", "size": 0.37},
+						{"name": "usia 15-44", "size": 0.17},
+						{"name": "usia 45+", "size": 0.71}
+						
+					]
+				},
+				
+				{
+					"name": "Sulawesi tengah",
+					"children": [
+						
+						{"name": "usia 15+", "size": 2.66},
+						{"name": "usia 15-44", "size": 0.91},
+						{"name": "usia 45+", "size": 6.42}
+						
+					]
+				},
+				
+				{
+					"name": "Sulawesi Selatan",
+					"children": [
+						
+						{"name": "usia 15+", "size": 8.71},
+						{"name": "usia 15-44", "size": 2.22},
+						{"name": "usia 45+", "size": 21.34}
+						
+					]
+				},
+				
+				{
+					"name": "Sulawesi Tenggara",
+					"children": [
+						
+						{"name": "usia 15+", "size": 5.90},
+						{"name": "usia 15-44", "size": 1.37},
+						{"name": "usia 45+", "size": 17.07}
+						
+					]
+				},
+				
+				{
+					"name": "Gorontalo",
+					"children": [
+						
+						{"name": "usia 15+", "size": 1.76},
+						{"name": "usia 15-44", "size": 0.61},
+						{"name": "usia 45+", "size": 4.35}
+						
+					]
+				},
+				
+				{
+					"name": "Sulawesi Utara",
+					"children": [
+						
+						{"name": "usia 15+", "size": 7.36},
+						{"name": "usia 15-44", "size": 3.33},
+						{"name": "usia 45+", "size": 17.37}
+						
+					]
+				}
+				
+			]
+		},
+		
+		{
+			"name": "Kepulauan Maluku",
+			"children": [
+				
+				{
+					"name": "Maluku",
+					"children":[
+						
+						{"name": "usia 15+", "size": 1.15},
+						{"name": "usia 15-44", "size": 0.80},
+						{"name": "usia 45+", "size": 1.96}
+					
+					]
+				},
+				
+				{
+					"name": "Maluku Utara",
+					"children":[
+						
+						{"name": "usia 15+", "size": 1.51},
+						{"name": "usia 15-44", "size": 0.47},
+						{"name": "usia 45+", "size": 4.28}
+					
+					]
+				}
+			]
+		},
+		
+		{
+			"name": "Papua",
+			"children": [
+				
+				{
+					"name": "Papua Barat",
+					"children":[
+						
+						{"name": "usia 15+", "size": 3.12},
+						{"name": "usia 15-44", "size": 2.09},
+						{"name": "usia 45+", "size": 6.32}
+					
+					]
+				},
+				
+				{
+					"name": "Papua",
+					"children":[
+						
+						{"name": "usia 15+", "size": 29.17},
+						{"name": "usia 15-44", "size": 28.47},
+						{"name": "usia 45+", "size": 31.57}
+					
+					]
+				}
+			]
+		}
+	]
+ 
+}
